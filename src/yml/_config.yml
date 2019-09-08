@@ -1,44 +1,18 @@
 # Site Settings
-name: Ma Jiabo
-title: majiabo | personal website to record life
-description: personal website, blog,
-tags:
-  - blog
-  - diary
-  - life
-  - study
-email: majiabo@hust.edu.cn
-disqus_username: birkhoff
-show_hero: true
-
+#=include site.yml
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: birkhoffkiki
-wechat_username: birkhoff007
-
+#=include social.yml
 
 # Theme Settings
-themeColor: "#ff0a16"
-primaryDark: "#141414"
-accentDark: "#ffffff"
-lightGray: "#f2f2f2"
-texts: "#333333"
-
+#=include theme.yml
 
 # Posts Settings
-show_time_bar: true
-show_modal_on_exit: true
-show_modal_on_finish_post: true
-two_columns_layout: true
-
+#=include posts.yml
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
-language: "en"
-
+#=include advanced.yml
 
 # Build settings
 markdown: kramdown
