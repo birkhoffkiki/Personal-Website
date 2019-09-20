@@ -6,7 +6,7 @@ subtitle: 拒绝肥宅生活，记录美好，从今天起
 description: 这里记录生活点滴，个人博客以及日记
 image: https://github.com/birkhoffkiki/Personal-Website/blob/master/assets/img/post_imgs/2019-09-16-01-cat.jpg?raw=true
 
-category: blog
+category: life
 tags:
   - welcome
   - blog
